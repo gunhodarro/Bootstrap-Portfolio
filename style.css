@@ -1,0 +1,100 @@
+h1{
+    background-color: darkcyan;
+    color: white;
+    margin-left: 100px;
+    padding: 1px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    position: fixed;
+    top: 0;
+    font-size: 2.0rem;
+}
+
+body{
+    
+    float: left;
+    background-color: #ffffff;
+    background-image: url("cork-board.png");
+    background-position: bottom;
+    background-size: contain;
+    background-repeat: repeat;
+    margin-left: 0%;
+}
+
+.card{
+  
+  width: 86%;
+  margin-left: 100px;
+  margin-top: 80px;
+ }
+
+img{
+    margin: 10px;
+    padding: 10px;
+    height: 175px;
+    width: 175px;
+}
+
+h5{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 25px;
+    color: darkcyan;
+    border-bottom-style: solid;
+    border-bottom-color: #cccccc; 
+    width: 86%;
+    text-align: left;
+    background-color: white;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    
+}
+
+p{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    text-align: left;
+    text-size-adjust: 40px;
+    margin-top: -30px;
+    line-height: 2.5em;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 20px;
+}
+
+footer{
+    background-color: #666666;
+    border-top-style: solid;
+    border-color: darkcyan;
+    position: fixed;
+    bottom: 0;
+    width: 120%;
+    height: 2.5rem;
+    margin-left: -20%;
+}
+
+nav{
+    border-bottom-style: solid;
+    border-color: #cccccc;
+    background: #fff;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+
+
+   .main-content img { 
+    float: left; 
+    padding: 0 20px 20px 0;
+
+}
+
+header{
+    width: 100% 100%;
+}
+
+
+
+
+
+
+  
